@@ -80,7 +80,7 @@ const Index = () => {
         <div className="container mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="text-2xl">🦊</div>
-            <span className="font-bold text-xl text-primary">Умный Лисёнок</span>
+            <span className="font-bold text-xl text-primary">ЛИССИ</span>
           </div>
           <div className="hidden md:flex gap-6">
             <a href="#features" className="text-foreground hover:text-primary transition-colors">

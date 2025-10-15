@@ -110,7 +110,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
               <h1 className="text-5xl md:text-6xl font-bold mb-6 text-foreground leading-tight">
-                Обучение через игру без экранов
+                Учиться легко. Играть умно.
               </h1>
               <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
                 Современный интерактивный помощник для детей 4–8 лет. Развиваем речь, мышление и коммуникацию в игровой форме!

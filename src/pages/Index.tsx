@@ -285,7 +285,7 @@ const Index = () => {
           </p>
           <div className="flex justify-center gap-6 mb-6">
             <a href="#" className="text-white/70 hover:text-white transition-colors">
-              <Icon name="Instagram" size={24} />
+              <Icon name="Send" size={24} />
             </a>
             <a href="#" className="text-white/70 hover:text-white transition-colors">
               <Icon name="Facebook" size={24} />

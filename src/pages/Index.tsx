@@ -293,7 +293,7 @@ const Index = () => {
               <Icon name="Mail" size={24} />
             </a>
           </div>
-          <p className="text-white/50 text-sm">© 2024 Умный Лисёнок. Все права защищены.</p>
+          <p className="text-white/50 text-sm">© 2025 ЛИССИ. Все права защищены.</p>
         </div>
       </footer>
     </div>

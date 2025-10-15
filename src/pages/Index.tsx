@@ -113,7 +113,8 @@ const Index = () => {
                 Учиться легко. Играть умно.
               </h1>
               <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-                Современный интерактивный помощник для детей 4–8 лет. Развиваем речь, мышление и коммуникацию в игровой форме!
+                Интерактивный помощник для развития речи, мышления и общения.<br />
+                Учим и играем вместе — каждый день, с интересом и пользой!
               </p>
               <div className="flex gap-4">
                 <Button size="lg" className="bg-primary hover:bg-primary/90 text-white font-semibold rounded-full px-8">

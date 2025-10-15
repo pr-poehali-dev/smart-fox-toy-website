@@ -80,6 +80,7 @@ const Index = () => {
         <div className="container mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <img src="https://cdn.poehali.dev/files/c4507e16-450b-40e8-acfc-0c1f9f674802.jpg" alt="ЛИССИ" className="h-10 w-auto" />
+            <span className="font-bold text-xl text-primary">ЛИССИ</span>
           </div>
           <div className="hidden md:flex gap-6">
             <a href="#features" className="text-foreground hover:text-primary transition-colors">

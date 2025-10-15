@@ -277,8 +277,8 @@ const Index = () => {
       <footer className="bg-foreground text-white py-12 px-4">
         <div className="container mx-auto text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
-            <div className="text-3xl">🦊</div>
-            <span className="font-bold text-2xl">Умный Лисёнок</span>
+            <img src="https://cdn.poehali.dev/files/c4507e16-450b-40e8-acfc-0c1f9f674802.jpg" alt="ЛИССИ" className="h-12 w-auto" />
+            <span className="font-bold text-2xl">ЛИССИ</span>
           </div>
           <p className="text-white/70 mb-6">
             Обучающий помощник для детей 4–8 лет
